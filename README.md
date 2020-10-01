@@ -1,4 +1,4 @@
-# Speed-Detection-Using-OpenCV
+# Speed-Detection-Using-OpenCV and Python
 
 This project was build for my last year Diploma project.
 
